@@ -1,6 +1,6 @@
 # IDE Documentation file.
 
-Integrated Development Environment (IDE) Vs Text Editors
+[File](./jottings) Integrated Development Environment (IDE) Vs Text Editors
 
 
 ## Text Editors 
@@ -9,7 +9,7 @@ This is a software application program used for editing text on a system's Opera
  
 ### Examples of Text Editors
 
-notepad windows
+notepad on all windows OS
 
 notepad++ [Download](https://notepad-plus-plus.org/downloads/)
 
