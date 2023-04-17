@@ -1,6 +1,7 @@
 # IDE Documentation file.
 
-[File](./jottings) Integrated Development Environment (IDE) Vs Text Editors
+[File](./jottings):
+Integrated Development Environment (IDE) Vs Text Editors
 
 
 ## Text Editors 
