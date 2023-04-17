@@ -17,7 +17,7 @@ TextEditor
 
 Vim [Download](https://www.vim.org/download.php) 
 
-sublime text
+sublime text [Download](https://sublimetext.com/download)
  
  
  
@@ -28,9 +28,9 @@ An Integrated Development Environment (IDE) is a software application that provi
 
 ### Examples of IDE
 
-Visual Studio Code [Visual Studio Code](https://code.visualstudio.com/) 
+Visual Studio Code [Download](https://code.visualstudio.com/) 
 
-Atom [Atom](https://atom.io) 
+Atom [Download](https://atom.io) 
 
 Brackets [Download](https://brackets.io/)
 
