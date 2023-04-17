@@ -11,11 +11,11 @@ This is a software application program used for editing text on a system's Opera
 
 notepad windows
 
-notepad++ [Download] (https://notepad-plus-plus.org/downloads/)
+notepad++ [Download](https://notepad-plus-plus.org/downloads/)
 
 TextEditor
 
-Vim [Download] (https://www.vim.org/download.php) 
+Vim [Download](https://www.vim.org/download.php) 
 
 sublime text
  
@@ -30,7 +30,7 @@ An Integrated Development Environment (IDE) is a software application that provi
 
 Visual Studio Code [Visual Studio Code](https://code.visualstudio.com/) 
 
-Atom [Atom] (https://atom.io) 
+Atom [Atom](https://atom.io) 
 
-Brackets [Download] (https://brackets.io/)
+Brackets [Download](https://brackets.io/)
 
