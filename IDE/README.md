@@ -1,22 +1,21 @@
 # IDE Documentation file.
 
-#Integrated Development Environment (IDE) Vs Text Editors
+Integrated Development Environment (IDE) Vs Text Editors
 
 
 ## Text Editors 
 This is a software application program used for editing text on a system's Operating System
 
  
-
 ### Examples of Text Editors
 
 notepad windows
 
-notepad++
+notepad++ [Download] (https://notepad-plus-plus.org/downloads/)
 
 TextEditor
 
-Vim or Vi 
+Vim [Download] (https://www.vim.org/download.php) 
 
 sublime text
  
@@ -29,9 +28,9 @@ An Integrated Development Environment (IDE) is a software application that provi
 
 ### Examples of IDE
 
-Visual Studio Code 
+Visual Studio Code [Visual Studio Code](https://code.visualstudio.com/) 
 
-Atom 
+Atom [Atom] (https://atom.io) 
 
-Brackets
+Brackets [Download] (https://brackets.io/)
 
