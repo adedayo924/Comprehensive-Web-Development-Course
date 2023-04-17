@@ -30,4 +30,4 @@ This section contains everything visible a clients get to see on a web page. Thi
     </body>
 ```
 ## 5. Others:
-This include: Elements, tags, links, horizontal rule, line breaker, headers etc.
+This include: Elements, Paragraphs, blockquotes, tags, links, horizontal rule, line breaker, headers etc.
