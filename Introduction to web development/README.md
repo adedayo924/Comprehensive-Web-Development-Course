@@ -31,3 +31,26 @@ This section contains everything visible a clients get to see on a web page. Thi
 ```
 ## 5. Others:
 This include: Elements, Paragraphs, blockquotes, tags, links, horizontal rule, line breaker, headers etc.
+
+### Tags
+tags are mostly defined in two forms: Opening tag and closing tag
+#### Opening tag
+```
+    < >
+```
+#### Closing tag
+```
+    </ >
+```
+
+### Headers
+There are six types of headers numbering from 1 to 6 (h1 to h6). The higher the number the lower the size of the text.
+Typical example:
+```
+    <h1>Welcome to Jeilo CDW!</h1>
+    <h2>Want to learn how to code?</h2>
+    <h3>Then you have come to the right place!</h3>
+    <h4>So get started now!</h4>
+    <h5>with the knowledge of headers and their tags</h5>
+    <h6>and there are Six types H1 to H6.</h6>
+```
