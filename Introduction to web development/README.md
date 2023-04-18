@@ -80,3 +80,14 @@ Sample is illustrated below:
         <li>Step 3</li>
     </ol> 
 ```
+
+### Anchor tag (a):
+This is used link web pages together. Example below:
+```
+    <a href="#">Where # is the address or location of a web page or file you trying to connect to, view or access</a>
+```
+another typical example is if i want my web page to lead me to google where I can search for what I want to know about
+```
+    <a href="https://www.google.com">Go to Google</a>
+```
+
