@@ -91,3 +91,14 @@ another typical example is if i want my web page to lead me to google where I ca
     <a href="https://www.google.com">Go to Google</a>
 ```
 
+### Text Styling
+In this, we can style our text in different ways basically in html using styles like bold and italic etc.
+example:
+```
+    // for both Bold and Italic, there are ways:
+    <strong> Effective </strong>
+    // OR
+    <b> Affordable </b>
+```
+etc.
+
