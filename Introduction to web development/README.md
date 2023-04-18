@@ -84,7 +84,7 @@ Sample is illustrated below:
 ### Anchor tag (a):
 This is used link web pages together. Example below:
 ```
-    <a href="#">Where # is the address or location of a web page or file you trying to connect to, view or access</a>
+    <a href="#">Where # is the address or location of a web page or file you are trying to connect to, view or access</a>
 ```
 another typical example is if i want my web page to lead me to google where I can search for what I want to know about
 ```
