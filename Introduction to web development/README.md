@@ -54,3 +54,29 @@ Typical example:
     <h5>with the knowledge of headers and their tags</h5>
     <h6>and there are Six types H1 to H6.</h6>
 ```
+### Paragragh
+A paragraph tag p is illustrated below
+```
+    <p>If you want to know how to code, then there is no better place than Jeilo CDW.</p>
+```
+
+### Lists
+There are two major type of lists we have in html 5. Ordered list and unordered list.
+#### Unordered List (ul):
+Sample is illustrated below:
+```
+    <ul>
+        <li>Home</li>
+        <li>About</li>
+        <li>Contact</li>
+    </ul> 
+```
+#### Ordered List (ol):
+Sample is illustrated below:
+```
+    <ol>
+        <li>Step 1</li>
+        <li>Step 2</li>
+        <li>Step 3</li>
+    </ol> 
+```
